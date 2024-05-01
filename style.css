@@ -1,0 +1,144 @@
+body {
+        background-color: #F2F9FE;
+}
+
+.header {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 5vh;
+        gap: 0px;
+        position: relative;
+}
+
+.header {
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;              
+}
+
+.icon2 {
+        background-color: #223344;
+        width: 11vh;
+        border-radius: 20px;
+        position: absolute;
+        top: 20%;
+        left: 95%;
+        height: 28px;
+}
+
+.icon3 {
+        background-color: #F2F9FE;
+        border-radius: 30px;
+        position: absolute;
+        top: 3px;
+        left: 58%;
+        padding: 0;
+        height: 23px;
+        right: 5px;
+}
+
+.lista {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        top: 10%;
+        right: 30%;
+}
+
+ul li {
+        padding: 0 15px;
+        display: inline-table;
+}
+
+.lista li a {
+        text-decoration: none;
+        color: #333;
+        margin: 0;
+}
+
+.container-hijo {
+        width: 30%;
+        position: absolute;
+        top: 30%;
+        right: 66%;
+}
+
+.container-hijo2 {
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+.container-hijo2 {
+        position: absolute;
+        font-size: auto;
+        padding: 1%;
+        height: 22%;
+        width: 30%;
+        right: 65%;
+        top: 30%;
+}
+
+.contenido {
+        font-size: 10vh;
+        text-align: left;
+}
+
+.lista2 {
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+.lista2 {
+        height: 25vh;
+        position: absolute;
+}
+
+.text {
+        font-size: 3vh;
+}
+
+.caja-boton {
+        width: 100%;
+        position: absolute;
+        top: 100%;
+        right: -5%;
+}
+
+.caja-boton {
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+.caja-boton {
+        color: #111729;
+}
+
+.container-hijo {
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}      
+
+.imagen {
+        width: 30rem;
+        position: absolute;
+        top: 20%;
+        left: 60%;
+}
+
+.boton {
+        background-color: #2A4DD0;
+        border: none;
+        border-radius: 20px;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}
+
